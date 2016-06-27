@@ -1,0 +1,6 @@
+use_frameworks!
+target 'vcard_Tests' do
+  pod 'vcard', :path => '../'
+  
+  
+end
