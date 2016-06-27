@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/vcard.svg?style=flat)](http://cocoapods.org/pods/vcard)
 [![Platform](https://img.shields.io/cocoapods/p/vcard.svg?style=flat)](http://cocoapods.org/pods/vcard)
 
+##
+
+vCard is a work in process. DO NOT USE!
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
