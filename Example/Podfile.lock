@@ -1,0 +1,16 @@
+PODS:
+  - vcard (0.1.0)
+
+DEPENDENCIES:
+  - vcard (from `../`)
+
+EXTERNAL SOURCES:
+  vcard:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  vcard: 9b83c5ad65caa667aa26aad1e1ff8bc4b0750c60
+
+PODFILE CHECKSUM: 94215856cf2358ea9ab223ad25ff7f5efc356c36
+
+COCOAPODS: 1.0.0

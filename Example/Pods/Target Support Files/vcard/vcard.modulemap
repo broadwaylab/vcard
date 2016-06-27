@@ -1,0 +1,6 @@
+framework module vcard {
+  umbrella header "vcard-umbrella.h"
+
+  export *
+  module * { export * }
+}
